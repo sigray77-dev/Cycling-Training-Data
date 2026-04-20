@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-20T08:46:21.618308",
+  "generated_at": "2026-04-20T11:18:04.353702",
   "version": "3.104",
   "script_hash": "74e1c7fc0294",
   "scan_hours": 72,
@@ -2667,6 +2667,27 @@
           "zone": 2,
           "training_load": 11.661874,
           "decoupling": -11.834854
+        }
+      ]
+    },
+    {
+      "activity_id": "i141387563",
+      "date": "2026-04-20",
+      "type": "VirtualRide",
+      "name": "Zwift - Pacer Group Ride with Yumi",
+      "interval_summary": null,
+      "intervals": [
+        {
+          "type": "RECOVERY",
+          "duration_secs": 2712,
+          "avg_power": 201,
+          "max_power": 519,
+          "avg_hr": 114,
+          "max_hr": 128,
+          "avg_cadence": 94.93142,
+          "zone": 2,
+          "training_load": 34.027218,
+          "decoupling": -1.8896368
         }
       ]
     }
