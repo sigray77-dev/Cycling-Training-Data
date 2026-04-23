@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-23T06:18:54.477913",
+  "generated_at": "2026-04-23T10:57:07.525309",
   "version": "3.104",
   "script_hash": "74e1c7fc0294",
   "scan_hours": 72,
@@ -3219,6 +3219,26 @@
           "avg_cadence": 41.642857,
           "zone": 1,
           "training_load": 0.2814017
+        }
+      ]
+    },
+    {
+      "activity_id": "i142207467",
+      "date": "2026-04-23",
+      "type": "VirtualRide",
+      "name": "Zwift - Pacer Group Ride with Jacques",
+      "interval_summary": null,
+      "intervals": [
+        {
+          "type": "RECOVERY",
+          "duration_secs": 3097,
+          "avg_power": 199,
+          "max_power": 798,
+          "avg_hr": 114,
+          "max_hr": 133,
+          "avg_cadence": 83.1722,
+          "zone": 2,
+          "training_load": 36.71078
         }
       ]
     }
